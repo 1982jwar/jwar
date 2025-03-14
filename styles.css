@@ -19,7 +19,7 @@ body {
     top: 0;
     left: 0;
     width: 100%;
-    background-color: #f72112;
+    background-color: #33a2ec;
     z-index: 1500;
     padding: 0px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
@@ -49,7 +49,7 @@ body {
     top: 0;
     left: 0;
     width: 100%;
-    background-color: #0178c7;
+    background-color: #46a7e7;
     z-index: 1000;
     padding: 0px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
