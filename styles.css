@@ -101,7 +101,7 @@ h1 {
 }
 
 .conteudo-rolavel::-webkit-scrollbar-thumb {
-    background-color: #1E90FF;
+    background-color: #f1da06;
     border-radius: 10px;
 }
 
@@ -381,7 +381,7 @@ h1 {
 
 .favoritos-link .text {
     font-size: 12px;
-    color: white;
+    color: rgb(5, 0, 0);
     font-family: Arial, sans-serif;
     margin-top: 0px;
 }
@@ -459,7 +459,7 @@ h1 {
 /* Estilo para o coração inativo (não favoritado) */
 .coracao.favorito-inativo {
     color: #ccc; /* Cinza claro para indicar estado inativo */
-    font-size: 1.5rem; /* Tamanho do ícone */
+    font-size: 1.8rem; /* Tamanho do ícone */
 }
 
 
