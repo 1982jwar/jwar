@@ -19,7 +19,7 @@ body {
     top: 0;
     left: 0;
     width: 100%;
-    background-color: #33a2ec;
+    background-color: #f3f02f;
     z-index: 1500;
     padding: 0px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
@@ -49,7 +49,7 @@ body {
     top: 0;
     left: 0;
     width: 100%;
-    background-color: #46a7e7;
+    background-color: #239beb;
     z-index: 1000;
     padding: 0px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
@@ -390,7 +390,7 @@ h1 {
 .favoritos-link .counter {
     font-size: 15px; /* Tamanho do contador */
     color: rgb(0, 0, 0); /* Cor do texto do contador */
-    background-color: red; /* Fundo vermelho */
+    background-color: rgb(252, 252, 252); /* Fundo vermelho */
     border-radius: 50%; /* Formato circular */
     width: 25px; /* Largura do contador */
     height: 25px; /* Altura do contador */
