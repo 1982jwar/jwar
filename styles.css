@@ -348,7 +348,7 @@ h1 {
     background: none;
     border: none;
     cursor: pointer;
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     margin-left: auto; /* Empurra o botão para a direita */
     padding: 0;
     transition: transform 0.2s ease-in-out;
@@ -453,13 +453,13 @@ h1 {
 /* Estilo para o coração ativo (favoritado) */
 .coracao.favorito-ativo {
     color: #FF4500; /* Vermelho claro (cor ajustável conforme preferência) */
-    font-size: 1.5rem; /* Tamanho do ícone */
+    font-size: 5.0rem; /* Tamanho do ícone */
 }
 
 /* Estilo para o coração inativo (não favoritado) */
 .coracao.favorito-inativo {
-    color: #ccc; /* Cinza claro para indicar estado inativo */
-    font-size: 1.8rem; /* Tamanho do ícone */
+    color: #c09e05; /* Cinza claro para indicar estado inativo */
+    font-size: 5.0rem; /* Tamanho do ícone */
 }
 
 
@@ -473,7 +473,7 @@ h1 {
 
 .favorito-btn {
     cursor: pointer;
-    font-size: 1.2em; /* Ajuste o tamanho do ícone conforme necessário */
+    font-size: 2.5em; /* Ajuste o tamanho do ícone conforme necessário */
 }
 
 
