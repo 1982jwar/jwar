@@ -458,7 +458,7 @@ h1 {
 
 /* Estilo para o coração inativo (não favoritado) */
 .coracao.favorito-inativo {
-    color: #c09e05; /* Cinza claro para indicar estado inativo */
+    color: #4b4827; /* Cinza claro para indicar estado inativo */
     font-size: 5.0rem; /* Tamanho do ícone */
 }
 
