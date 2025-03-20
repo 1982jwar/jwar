@@ -389,7 +389,7 @@ h1 {
 /* Estilo do contador */
 .favoritos-link .counter {
     font-size: 15px; /* Tamanho do contador */
-    color: rgb(0, 0, 0); /* Cor do texto do contador */
+    color: rgb(222, 255, 255); /* Cor do texto do contador */
     background-color: rgb(252, 252, 252); /* Fundo vermelho */
     border-radius: 50%; /* Formato circular */
     width: 25px; /* Largura do contador */
