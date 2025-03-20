@@ -22,7 +22,7 @@ body {
     background-color: #f52804;
     z-index: 1500;
     padding: 0px;
-    box-shadow: 0 4px 15px rgb(248, 232, 2);
+    box-shadow: 0 4px 15px rgb(0, 0, 0);
     text-align: center;
 }
 
@@ -280,7 +280,7 @@ h1 {
 }
 
 .help-button:hover {
-    background-color: #0000; /* Azul mais escuro ao passar o mouse */
+    background-color: #0428f5; /* Azul mais escuro ao passar o mouse */
     transform: scale(1.1);
 }
 
@@ -312,7 +312,7 @@ h1 {
 
 /* Efeito hover */
 .vendas-button:hover {
-    background-color: #0000; /* Azul mais escuro ao passar o mouse */
+    background-color: #0544f3e8; /* Azul mais escuro ao passar o mouse */
     transform: scale(1.1); /* Aumenta o botão levemente */
 }
 
@@ -330,7 +330,7 @@ h1 {
     bottom: 10px;
     left: 10px;
     padding: 10px 20px;
-    background-color: #000000;
+    background-color: #1d05f5;
     color: white;
     border-radius: 25px;
     text-decoration: none;
