@@ -19,7 +19,7 @@ body {
     top: 0;
     left: 0;
     width: 100%;
-    background-color: #f3f02f;
+    background-color: #f52804;
     z-index: 1500;
     padding: 0px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
@@ -52,7 +52,7 @@ body {
     background-color: #1499f1;
     z-index: 1000;
     padding: 0px;
-    box-shadow: 0 4px 15px rgb(239, 243, 0);
+    box-shadow: 0 4px 15px rgb(0, 0, 0);
     text-align: center;
 }
 
