@@ -1,4 +1,4 @@
-const CACHE_NAME = 'karaoke-cache-v25'; // 
+const CACHE_NAME = 'karaoke-cache-v26'; // 
 const ASSETS = [
   './',
   './index.html',
