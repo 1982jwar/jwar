@@ -52,7 +52,7 @@ body {
     background-color: #1499f1;
     z-index: 1000;
     padding: 0px;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 4px 15px rgb(239, 243, 0);
     text-align: center;
 }
 
