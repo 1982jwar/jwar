@@ -133,7 +133,7 @@ h1 {
     display: flex;
     flex-direction: column;
     justify-content: flex-start; /* Alinha o conteúdo verticalmente */
-    padding: 15px;
+    padding: 25px;
     background-color: #FFFFFF;
     border-radius: 10px;
     transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
@@ -148,7 +148,7 @@ h1 {
 .numero, .cantor, .musica {
     display: block; /* Garante que ocupem o espaço da linha */
     text-align: left; /* Alinha o texto à esquerda */
-    margin: 10px 0; /* Espaçamento entre as linhas */
+    margin: 20px 0; /* Espaçamento entre as linhas */
 }
 
 .numero {
