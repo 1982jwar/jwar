@@ -158,14 +158,14 @@ h1 {
 }
 
 .cantor {
-    color: #007cf8;
+    color: #f80800;
     font-weight: bold;
     font-size: 1.7rem;
 }
 
 .musica {
-    color: #000000;
-    font-weight: 1.7rem;
+    color: #0071db;
+    font-size: 1.7rem;
     text-align: left; /* Garante que a música fique alinhada à esquerda */
 }
 
