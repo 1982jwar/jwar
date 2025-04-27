@@ -1,5 +1,5 @@
 // Ver
-const CACHE_NAME = 'karaoke-cache-v38';
+const CACHE_NAME = 'karaoke-cache-v39';
 
 // Arquivos para cache (atualize com seus caminhos)
 const ASSETS = [
